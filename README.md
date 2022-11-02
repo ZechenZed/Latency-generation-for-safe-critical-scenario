@@ -8,7 +8,7 @@ Before you get started, please install the following dependencies:
 - numpy
 - mayavi >= 4.72
 - pyqt >5
-- Download the example daatset folder [here](https://drive.google.com/file/d/1vnifcFfoUZfJCyd7sK0ep1lUb5M9V__o/view?usp=share_link)
+- Download the example datset folder [here](https://drive.google.com/file/d/1vnifcFfoUZfJCyd7sK0ep1lUb5M9V__o/view?usp=share_link)
 
 ## Demo 
 The following gif displays a clear perception of surrounding environment with fused point cloud and ground truth bounding box without any latency.
